@@ -2,6 +2,10 @@
 
 This repository provides a framework for Reinforcement UnLEarning (RULE).
 
+## 🎉 News
+
+We are happy to announce that this paper has been accepted to NeurIPS25!
+
 
 ## 📝 Preprint
 The preprint for this work is available at [arXiv:2506.07171](https://arxiv.org/abs/2506.07171).
