@@ -1,5 +1,5 @@
 <h1 align="center">
- [NeurIPS25] RULE: Reinforcement UnLEarning Achieves Forget–Retain Pareto Optimality
+ RULE: Reinforcement UnLEarning Achieves Forget–Retain Pareto Optimality
 </h1>
 
 
