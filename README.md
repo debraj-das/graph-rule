@@ -12,6 +12,8 @@
 
 </div>
 
+> *TL;DR*: RULE is a reinforcement unlearning pipeline that enables the model to explore **when and how** to refuse. RULE achieves a strong **Pareto frontier** between forgetting and retention—without massive datasets.
+
 
 ## 📰 News
 
@@ -37,8 +39,6 @@ We introduce a simple, effective data synthesis strategy and leverage RL’s exp
 Because RL samples on-policy from the model’s own distribution, RULE better preserves the model’s knowledge while unlearning targeted content.
 
 Empirically, on RWKU and MUSE-Book, RULE achieves a Pareto-optimal forget–retain frontier using only 10% of the forget and retain sets, while maintaining naturalness and general utility. Additional experiments show robustness to both black-box and white-box attacks, and compatibility with multiple reward designs and online RL algorithms.
-
-> *TL;DR*: RULE learns **when and how** to refuse, achieving a strong **Pareto frontier** between forgetting and retention—without massive datasets.
 
 
 ---
