@@ -1,5 +1,7 @@
 <h1 align="center">
- RULE: Reinforcement UnLEarning Achieves Forget–Retain Pareto Optimality
+ RULE: Reinforcement UnLEarning Achieves 
+ 
+ Forget–Retain Pareto Optimality
 </h1>
 
 <div align="center">
