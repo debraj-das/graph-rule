@@ -2,7 +2,7 @@
 
 ## 🎯 **ESSENTIAL CURVES FOR GRAPH-RULE EVALUATION**
 
-**Student:** Debraj Das | **Roll:** 21ME3AI31 | **Supervisor:** Dr. Plaban Bhowmick
+**Student:** Debraj Das | **Roll:** 21ME3AI31 | **Supervisor:** Professor Plaban Bhowmick
 
 ---
 
@@ -278,6 +278,6 @@
 
 ---
 
-**Created for:** Debraj Das (21ME3AI31) | **Supervisor:** Dr. Plaban Bhowmick  
+**Created for:** Debraj Das (21ME3AI31) | **Supervisor:** Professor Plaban Bhowmick  
 **Purpose:** MTech MTP Thesis Defense Preparation  
 **Date:** November 21, 2025

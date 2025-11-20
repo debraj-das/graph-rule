@@ -19,7 +19,7 @@
 # 🎓 **MASTER THESIS PROJECT: GRAPH-RULE**
 
 **Student:** Debraj Das (21ME3AI31)  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Program:** M.Tech in Artificial Intelligence, Machine Learning and Applications  
 **Project:** Graph Neural Network Unlearning with Reinforcement Learning
 
@@ -464,7 +464,7 @@ If you use our Graph-RULE implementations or novel algorithms, please cite:
       author={Debraj Das},
       year={2025},
       school={M.Tech in Artificial Intelligence, Machine Learning and Applications},
-      supervisor={Dr. Plaban Bhowmick},
+      supervisor={Professor Plaban Bhowmick},
       type={Master's Thesis},
       note={Novel extensions to RULE framework for graph neural networks with 95.91\% unlearning effectiveness}
 }

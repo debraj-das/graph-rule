@@ -5,7 +5,7 @@
 **Date**: November 20, 2025  
 **Student Name**: Debraj Das  
 **Roll Number**: 21ME3AI31  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Method**: RULE (Reinforcement UnLEarning) + 6 Novel Extensions  
 **Thesis Focus**: Novel Research Directions in Privacy-Preserving Machine Learning
 

@@ -1,7 +1,7 @@
 # 📚 **RESEARCH ATTRIBUTION & NOVEL CONTRIBUTIONS**
 
 ## Master Thesis Project: Graph-RULE Framework
-**Student:** Debraj Das (21ME3AI31) | **Supervisor:** Dr. Plaban Bhowmick  
+**Student:** Debraj Das (21ME3AI31) | **Supervisor:** Professor Plaban Bhowmick  
 **Institution:** M.Tech Computer Science & Engineering | **Date:** November 21, 2025
 
 ---

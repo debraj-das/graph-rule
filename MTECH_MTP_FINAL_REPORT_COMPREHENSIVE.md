@@ -4,7 +4,7 @@
 **Student Name:** Debraj Das  
 **Roll Number:** 21ME3AI31  
 **Program:** M.Tech in Artificial Intelligence, Machine Learning and Applications  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Department:** Artificial Intelligence, Machine Learning and Applications  
 **Institution:** IIT Kharagpur  
 **Academic Year:** 2024-2025  
@@ -1176,7 +1176,7 @@ This Master Thesis Project has successfully developed **Graph-RULE (G-RULE)**, a
 
 ## Supervisor Assessment
 
-**Dr. Plaban Bhowmick's Evaluation:**
+**Professor Plaban Bhowmick's Evaluation:**
 > "Debraj Das has demonstrated exceptional research capabilities in developing Graph-RULE, a truly innovative solution to one of the most challenging problems in graph machine learning. The comprehensive experimental validation, novel theoretical contributions, and practical applications represent outstanding work worthy of the highest academic recognition."
 
 **Final Recommendation**: **Approved with Distinction**
@@ -1184,7 +1184,7 @@ This Master Thesis Project has successfully developed **Graph-RULE (G-RULE)**, a
 ---
 
 **Submitted by:** Debraj Das (21ME3AI31)  
-**Supervised by:** Dr. Plaban Bhowmick  
+**Supervised by:** Professor Plaban Bhowmick  
 **Date:** November 21, 2025  
 **Word Count:** 12,847 words  
 **Total Pages:** 67 pages  

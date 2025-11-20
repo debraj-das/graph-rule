@@ -1,7 +1,7 @@
 # Graph-RULE: Master Thesis Project Setup
 # Author: Debraj Das (21ME3AI31)
 # Project: Graph Neural Network Unlearning with Reinforcement Learning
-# Supervisor: Dr. Plaban Bhowmick
+# Supervisor: Professor Plaban Bhowmick
 #
 # Licensed under the MIT License
 

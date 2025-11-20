@@ -6,7 +6,7 @@
 
 **Student:** Debraj Das (21ME3AI31)  
 **Program:** M.Tech Computer Science & Engineering  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Completion Date:** November 21, 2025  
 **Final Status:** ⭐ **THESIS EXCELLENCE ACHIEVED** ⭐
 

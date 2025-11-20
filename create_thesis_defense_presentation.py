@@ -3,7 +3,7 @@
 GRAPH-RULE THESIS DEFENSE PRESENTATION GENERATOR
 Comprehensive presentation materials for Master Thesis Defense
 
-Student: Debraj Das | Roll: 21ME3AI31 | Supervisor: Dr. Plaban Bhowmick
+Student: Debraj Das | Roll: 21ME3AI31 | Supervisor: Professor Plaban Bhowmick
 Project: Graph-RULE - Revolutionary Graph Neural Network Unlearning
 Date: November 20, 2025
 """
@@ -59,7 +59,7 @@ class ThesisDefensePresentation:
             'experiment_info': {
                 'student_name': 'Debraj Das',
                 'roll_number': '21ME3AI31',
-                'supervisor': 'Dr. Plaban Bhowmick',
+                'supervisor': 'Professor Plaban Bhowmick',
                 'total_datasets': 40,
                 'total_algorithms': 8
             },
@@ -104,7 +104,7 @@ class ThesisDefensePresentation:
                 fontsize=18, ha='center', va='center',
                 transform=ax.transAxes, color='darkgreen')
         
-        ax.text(0.5, 0.25, 'Supervisor: Dr. Plaban Bhowmick',
+        ax.text(0.5, 0.25, 'Supervisor: Professor Plaban Bhowmick',
                 fontsize=16, ha='center', va='center',
                 transform=ax.transAxes)
         
@@ -622,7 +622,7 @@ class ThesisDefensePresentation:
 ## 📞 Contact Information
 **Student:** Debraj Das  
 **Roll Number:** 21ME3AI31  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Project:** Graph-RULE - Revolutionary Graph Neural Network Unlearning
 
 *Generated on: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}*

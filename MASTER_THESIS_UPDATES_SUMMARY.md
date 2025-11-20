@@ -24,7 +24,7 @@ I've successfully updated all key documents to clarify that **MTP = Master Thesi
 
 **Key Changes:**
 - ✅ Title updated to "MASTER THESIS PROJECT: RULE Extensions Executive Summary"
-- ✅ Student information updated: "Debraj Das, Roll: 21ME3AI31, Supervisor: Dr. Plaban Bhowmick"
+- ✅ Student information updated: "Debraj Das, Roll: 21ME3AI31, Supervisor: Professor Plaban Bhowmick"
 - ✅ Added "Thesis Focus: Privacy-Preserving Machine Learning"
 - ✅ Updated achievements section for "Master Thesis Evaluation"
 - ✅ Enhanced academic excellence indicators

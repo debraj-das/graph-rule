@@ -50,7 +50,7 @@ class ThesisDefensePresentation:
             "student": "Debraj Das",
             "roll_number": "21ME3AI31",
             "program": "M.Tech in Computer Science & Engineering",
-            "supervisor": "Dr. Plaban Bhowmick",
+            "supervisor": "Professor Plaban Bhowmick",
             "department": "Computer Science & Engineering",
             "date": "November 21, 2025",
             "key_achievements": [

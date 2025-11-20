@@ -3,7 +3,7 @@
 Generate Critical Evaluation Curves for MTech MTP Thesis Defense
 Graph-RULE: Novel Graph Neural Network Unlearning Framework
 
-Student: Debraj Das | Roll: 21ME3AI31 | Supervisor: Dr. Plaban Bhowmick
+Student: Debraj Das | Roll: 21ME3AI31 | Supervisor: Professor Plaban Bhowmick
 """
 
 import numpy as np
@@ -769,7 +769,7 @@ class ThesisVisualizationGenerator:
 # THESIS DEFENSE CURVES SUMMARY
 
 Generated for: Debraj Das (21ME3AI31)
-Supervisor: Dr. Plaban Bhowmick
+Supervisor: Professor Plaban Bhowmick
 Date: November 21, 2025
 
 ## 📊 CRITICAL EVALUATION CURVES GENERATED
@@ -833,7 +833,7 @@ def main():
     print("=" * 60)
     print("Student: Debraj Das | Roll: 21ME3AI31")
     print("Project: Graph-RULE Neural Network Unlearning")
-    print("Supervisor: Dr. Plaban Bhowmick")
+    print("Supervisor: Professor Plaban Bhowmick")
     print("=" * 60)
     
     generator = ThesisVisualizationGenerator()

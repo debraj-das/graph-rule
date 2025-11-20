@@ -83,7 +83,7 @@ class FinalSetupVerification:
 ║  MASTER THESIS PROJECT: Graph-RULE Framework                                ║
 ║                                                                              ║
 ║  Student: Debraj Das (21ME3AI31)                                           ║
-║  Supervisor: Dr. Plaban Bhowmick                                           ║
+║  Supervisor: Professor Plaban Bhowmick                                           ║
 ║  Program: M.Tech Computer Science & Engineering                             ║
 ║                                                                              ║
 ║  RESEARCH FOUNDATION:                                                        ║

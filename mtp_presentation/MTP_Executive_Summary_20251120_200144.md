@@ -2,7 +2,7 @@
 
 **Student Name**: Debraj Das  
 **Roll Number**: 21ME3AI31  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Date**: November 20, 2025  
 **Project**: Master Thesis Project (MTP) - RULE: Reinforcement UnLEarning Enhanced Framework  
 **Scope**: 6 Novel Research Extensions for Advanced Master Thesis Work  

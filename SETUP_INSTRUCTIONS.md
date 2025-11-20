@@ -2,7 +2,7 @@
 ## Master Thesis Project: Graph Neural Network Unlearning with Reinforcement Learning
 
 **Author:** Debraj Das (21ME3AI31)  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Project:** Graph-RULE (G-RULE) Framework  
 
 ---

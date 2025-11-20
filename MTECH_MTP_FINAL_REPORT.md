@@ -7,7 +7,7 @@
 **Roll Number:** 21ME3AI31  
 **Degree:** Master of Technology (M.Tech)  
 **Department:** Artificial Intelligence  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Institution:** IIT Kharagpur  
 **Academic Year:** 2024-2025  
 **Submission Date:** November 21, 2025
@@ -881,7 +881,7 @@ Based on our comprehensive experimental evaluation across 40 datasets, Graph-RUL
 
 ### Supervisor Interaction Records
 
-**Dr. Plaban Bhowmick - Primary Supervisor:**
+**Professor Plaban Bhowmick - Primary Supervisor:**
 - **Total Guidance Hours:** 64 hours over 15 months
 - **Research Direction:** Graph neural networks and privacy
 - **Key Contributions:** Theoretical framework validation
@@ -963,6 +963,6 @@ This research establishes a new paradigm in graph neural network unlearning and 
 
 ---
 
-*Debraj Das | 21ME3AI31 | Dr. Plaban Bhowmick*  
+*Debraj Das | 21ME3AI31 | Professor Plaban Bhowmick*  
 *Master of Technology in Artificial Intelligence*  
 *November 21, 2025*

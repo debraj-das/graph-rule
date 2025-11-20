@@ -3,7 +3,7 @@
 
 **Student Name**: Debraj Das  
 **Roll Number**: 21ME3AI31  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Project**: Master Thesis Project (MTP) in Machine Unlearning  
 **Date**: November 20, 2025  
 **Scope**: 6 Major Novel Research Extensions Beyond Original RULE

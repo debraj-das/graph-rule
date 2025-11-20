@@ -5,7 +5,7 @@ Advanced Master Thesis Project Enhancement
 
 Student Name: Debraj Das
 Roll Number: 21ME3AI31
-Supervisor: Dr. Plaban Bhowmick
+Supervisor: Professor Plaban Bhowmick
 Enhanced Research Direction: Graph-RULE (G-RULE) Framework
 Date: November 20, 2025
 
@@ -80,7 +80,7 @@ class GraphRULEFramework:
         print("🚀 Initializing Graph-RULE Framework...")
         print(f"Student: {config.get('student_name', 'Debraj Das')}")
         print(f"Roll: {config.get('roll_number', '21ME3AI31')}")
-        print(f"Supervisor: {config.get('supervisor', 'Dr. Plaban Bhowmick')}")
+        print(f"Supervisor: {config.get('supervisor', 'Professor Plaban Bhowmick')}")
     
     def generate_synthetic_graph_datasets(self) -> Dict[str, Any]:
         """Generate 25+ synthetic graph datasets for comprehensive testing"""
@@ -681,7 +681,7 @@ class GraphRULEFramework:
             'experiment_info': {
                 'student_name': 'Debraj Das',
                 'roll_number': '21ME3AI31', 
-                'supervisor': 'Dr. Plaban Bhowmick',
+                'supervisor': 'Professor Plaban Bhowmick',
                 'project_title': 'Graph-RULE: Novel Graph Unlearning with Reinforcement Learning',
                 'execution_date': datetime.now().isoformat(),
                 'total_datasets': len(self.graph_datasets),
@@ -737,7 +737,7 @@ def main():
     print("🎓 GRAPH-RULE (G-RULE) EXPERIMENTAL PIPELINE")
     print("=" * 60)
     print("Student: Debraj Das | Roll: 21ME3AI31")
-    print("Supervisor: Dr. Plaban Bhowmick")
+    print("Supervisor: Professor Plaban Bhowmick")
     print("Enhanced Research: Graph Neural Network Unlearning with RL")
     print("=" * 60)
     
@@ -745,7 +745,7 @@ def main():
     config = {
         'student_name': 'Debraj Das',
         'roll_number': '21ME3AI31',
-        'supervisor': 'Dr. Plaban Bhowmick',
+        'supervisor': 'Professor Plaban Bhowmick',
         'project_title': 'Graph-RULE: Novel Graph Unlearning with Reinforcement Learning',
         'random_seed': 42,
         'output_dir': 'graph_rule_results'

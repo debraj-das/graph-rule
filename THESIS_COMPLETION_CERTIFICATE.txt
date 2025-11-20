@@ -5,7 +5,7 @@
 ║                                                                              ║
 ║  Student: Debraj Das (21ME3AI31)                                           ║
 ║  Project: Graph-RULE (G-RULE) Framework                                    ║
-║  Supervisor: Dr. Plaban Bhowmick                                           ║
+║  Supervisor: Professor Plaban Bhowmick                                           ║
 ║                                                                              ║
 ║  COMPLETION STATUS: ACCEPTABLE - SOME WORK REQUIRED            ║
 ║  COMPLETION SCORE:   82%                                           ║

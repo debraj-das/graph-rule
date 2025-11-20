@@ -224,7 +224,7 @@ class ThesisValidator:
 ║                                                                              ║
 ║  Student: Debraj Das (21ME3AI31)                                           ║
 ║  Project: Graph-RULE (G-RULE) Framework                                    ║
-║  Supervisor: Dr. Plaban Bhowmick                                           ║
+║  Supervisor: Professor Plaban Bhowmick                                           ║
 ║                                                                              ║
 ║  COMPLETION STATUS: {status:<42} ║
 ║  COMPLETION SCORE:  {completion_percentage:3d}%                                           ║

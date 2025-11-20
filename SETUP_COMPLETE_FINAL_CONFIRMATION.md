@@ -4,7 +4,7 @@
 
 **Student:** Debraj Das (21ME3AI31)  
 **Project:** Graph Neural Network Unlearning with Reinforcement Learning  
-**Supervisor:** Dr. Plaban Bhowmick  
+**Supervisor:** Professor Plaban Bhowmick  
 **Setup Completion Date:** November 21, 2025  
 **Installation Score:** 💯 **100% EXCELLENT** ⭐
 

@@ -3,7 +3,7 @@
 
 **Student Name**: Debraj Das  
 **Roll Number**: 21ME3AI31  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Enhanced Research Direction**: Graph-RULE (G-RULE) Framework  
 **Date**: November 20, 2025  
 

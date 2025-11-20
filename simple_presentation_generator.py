@@ -31,7 +31,7 @@ ax.text(0.5, 0.45, 'Master Thesis Defense Presentation',
 ax.text(0.5, 0.35, 'Debraj Das\nRoll Number: 21ME3AI31',
         fontsize=16, ha='center', va='center', color='darkgreen')
 
-ax.text(0.5, 0.25, 'Supervisor: Dr. Plaban Bhowmick',
+ax.text(0.5, 0.25, 'Supervisor: Professor Plaban Bhowmick',
         fontsize=14, ha='center', va='center')
 
 ax.text(0.5, 0.15, f'Department of Computer Science & Engineering\n{datetime.now().strftime("%B %d, %Y")}',
@@ -207,7 +207,7 @@ Generated on: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}
 ## Student Information
 - **Name:** Debraj Das
 - **Roll Number:** 21ME3AI31  
-- **Supervisor:** Dr. Plaban Bhowmick
+- **Supervisor:** Professor Plaban Bhowmick
 - **Project:** Graph-RULE - Revolutionary Graph Neural Network Unlearning
 
 🎉 **MASTER THESIS PROJECT STATUS: OUTSTANDING SUCCESS!** 🎉

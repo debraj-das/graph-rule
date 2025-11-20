@@ -24,7 +24,7 @@ def create_defense_package():
         "title": "Graph-RULE: Reinforcement Learning-based Graph Neural Network Unlearning",
         "subtitle": "A Revolutionary Framework for Privacy-Preserving Graph AI",
         "student": "Debraj Das (21ME3AI31)",
-        "supervisor": "Dr. Plaban Bhowmick",
+        "supervisor": "Professor Plaban Bhowmick",
         "date": datetime.datetime.now().strftime("%B %d, %Y"),
         "key_achievements": [
             "✅ 95.91% Average Unlearning Effectiveness",

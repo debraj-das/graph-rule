@@ -34,7 +34,7 @@
 **Program**: M.Tech in Artificial Intelligence, Machine Learning and Applications  
 **Institution**: **IIT Kharagpur** ✅  
 **Thesis**: Graph-RULE - Enhanced Machine Unlearning for Graph Neural Networks  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Date**: November 21, 2025
 
 ---

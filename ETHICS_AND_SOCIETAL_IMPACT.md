@@ -66,4 +66,4 @@ Graph-RULE represents a significant advancement in privacy-preserving AI technol
 
 **Date**: November 21, 2025  
 **Researcher**: Debraj Das (21ME3AI31)  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  

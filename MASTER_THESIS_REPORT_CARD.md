@@ -7,7 +7,7 @@
 
 **Student Name**: Debraj Das  
 **Roll Number**: 21ME3AI31  
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Academic Year**: 2025  
 **Program**: Master of Technology (M.Tech)  
 **Specialization**: Artificial Intelligence  
@@ -151,7 +151,7 @@ Comprehensive development of Graph-RULE (G-RULE) framework - applying reinforcem
 
 ## 🎓 **SUPERVISOR EVALUATION**
 
-**Supervisor**: Dr. Plaban Bhowmick  
+**Supervisor**: Professor Plaban Bhowmick  
 **Department**: Computer Science & Engineering  
 **Evaluation Date**: November 20, 2025  
 
@@ -232,7 +232,7 @@ Comprehensive development of Graph-RULE (G-RULE) framework - applying reinforcem
 
 ## 📋 **THESIS COMMITTEE SIGNATURES**
 
-**Primary Supervisor**: Dr. Plaban Bhowmick  
+**Primary Supervisor**: Professor Plaban Bhowmick  
 *Signature*: __________________ *Date*: November 20, 2025
 
 **Department Head**: [Name]  

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Generate Additional Professional Visualizations for Graph-RULE Thesis
-Student: Debraj Das | Roll: 21ME3AI31 | Supervisor: Dr. Plaban Bhowmick
+Student: Debraj Das | Roll: 21ME3AI31 | Supervisor: Professor Plaban Bhowmick
 """
 
 import matplotlib.pyplot as plt
@@ -280,7 +280,7 @@ def create_thesis_summary_card():
     student_info = """
     👤 Student: Debraj Das
     🏷️ Roll Number: 21ME3AI31  
-    👨‍🏫 Supervisor: Dr. Plaban Bhowmick
+    👨‍🏫 Supervisor: Professor Plaban Bhowmick
     📅 Date: November 20, 2025
     """
     
