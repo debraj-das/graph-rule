@@ -1,0 +1,21 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        THESIS COMPLETION CERTIFICATE                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  Student: Debraj Das (21ME3AI31)                                           ║
+║  Project: Graph-RULE (G-RULE) Framework                                    ║
+║  Supervisor: Dr. Plaban Bhowmick                                           ║
+║                                                                              ║
+║  COMPLETION STATUS: ACCEPTABLE - SOME WORK REQUIRED            ║
+║  COMPLETION SCORE:   82%                                           ║
+║                                                                              ║
+║  COMPONENTS VALIDATED:                                                       ║
+║  • Core Files:      5/5 Complete                                    ║
+║  • Defense Curves:  16/16 Generated                                  ║  
+║  • Experimental:    ✅ Pipeline Executed                                     ║
+║  • Documentation:   ✅ Comprehensive Report                                  ║
+║                                                                              ║
+║  VALIDATION DATE: November 21, 2025 02:43:35                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
