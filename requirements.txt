@@ -1,20 +1,126 @@
-accelerate
-codetiming
-datasets
-flash-attn>=2.4.3
-liger-kernel
-mathruler
-numpy
-omegaconf
-pandas
-peft
-pillow
-pyarrow>=15.0.0
-pylatexenc
-qwen-vl-utils
-ray[default]
-tensordict
-torchdata
-transformers>=4.49.0
-vllm>=0.7.3
-wandb
+# Graph-RULE: Master Thesis Project Requirements
+# Author: Debraj Das (21ME3AI31)
+# Project: Graph Neural Network Unlearning with Reinforcement Learning
+
+# ===== CORE MACHINE LEARNING FRAMEWORKS =====
+torch>=2.0.0                    # PyTorch for deep learning
+torchvision>=0.15.0             # Computer vision utilities
+torchaudio>=2.0.0               # Audio processing (for completeness)
+torch-geometric>=2.3.0          # Graph neural networks
+torch-cluster>=1.6.0            # Graph clustering algorithms
+torch-scatter>=2.1.0            # Scatter operations for graphs
+torch-sparse>=0.6.0             # Sparse tensor operations
+
+# ===== GRAPH PROCESSING & ALGORITHMS =====
+networkx>=3.0                   # Graph data structures and algorithms
+dgl>=1.1.0                      # Deep Graph Library
+igraph>=0.10.0                  # Fast graph processing
+graph-tool>=2.45                # Advanced graph analysis (optional)
+scipy>=1.10.0                   # Scientific computing
+
+# ===== DATA PROCESSING =====
+numpy>=1.24.0                   # Numerical computing
+pandas>=2.0.0                   # Data manipulation and analysis
+pyarrow>=15.0.0                 # Fast data serialization
+datasets>=2.14.0               # Dataset loading and processing
+h5py>=3.8.0                     # HDF5 file format support
+
+# ===== REINFORCEMENT LEARNING =====
+gymnasium>=0.28.0              # RL environments (formerly OpenAI Gym)
+stable-baselines3>=2.0.0       # RL algorithms implementation
+ray[rllib]>=2.5.0              # Distributed RL framework
+tensordict>=0.1.0              # Tensor data structures for RL
+
+# ===== VISUALIZATION & PLOTTING =====
+matplotlib>=3.7.0              # Basic plotting
+seaborn>=0.12.0                # Statistical data visualization
+plotly>=5.15.0                 # Interactive visualizations
+bokeh>=3.1.0                   # Web-based visualization
+graphviz>=0.20.0               # Graph visualization
+pygraphviz>=1.10.0             # Python interface for Graphviz
+
+# ===== SCIENTIFIC COMPUTING =====
+scikit-learn>=1.3.0           # Machine learning algorithms
+scikit-image>=0.20.0          # Image processing
+statsmodels>=0.14.0           # Statistical modeling
+sympy>=1.12.0                 # Symbolic mathematics
+
+# ===== OPTIMIZATION & NUMERICAL =====
+cvxpy>=1.3.0                   # Convex optimization
+optuna>=3.2.0                  # Hyperparameter optimization
+hyperopt>=0.2.0               # Bayesian optimization
+ortools>=9.6.0                # Operations research tools
+
+# ===== PRIVACY & SECURITY =====
+opacus>=1.4.0                  # Differential privacy for PyTorch
+cryptography>=41.0.0          # Cryptographic operations
+pycryptodome>=3.18.0          # Cryptographic library
+
+# ===== UTILITIES & TOOLS =====
+tqdm>=4.65.0                   # Progress bars
+rich>=13.4.0                   # Rich text and beautiful formatting
+click>=8.1.0                   # Command line interface creation
+pyyaml>=6.0.0                  # YAML file processing
+omegaconf>=2.3.0              # Configuration management
+hydra-core>=1.3.0             # Application configuration framework
+
+# ===== JUPYTER & NOTEBOOKS =====
+jupyter>=1.0.0                 # Jupyter notebook
+ipykernel>=6.23.0             # Jupyter kernel
+ipywidgets>=8.0.0             # Interactive widgets
+nbconvert>=7.6.0              # Notebook conversion
+
+# ===== DEVELOPMENT & TESTING =====
+pytest>=7.4.0                 # Testing framework
+pytest-cov>=4.1.0             # Coverage testing
+black>=23.5.0                 # Code formatting
+flake8>=6.0.0                 # Code linting
+mypy>=1.4.0                   # Static type checking
+pre-commit>=3.3.0             # Pre-commit hooks
+
+# ===== PERFORMANCE & MONITORING =====
+memory-profiler>=0.61.0       # Memory usage profiling
+line-profiler>=4.0.0          # Line-by-line profiling
+psutil>=5.9.0                 # System and process monitoring
+codetiming>=1.4.0             # Code timing utilities
+wandb>=0.15.0                 # Experiment tracking
+
+# ===== FILE I/O & SERIALIZATION =====
+pickle5>=0.0.11               # Enhanced pickle protocol
+joblib>=1.3.0                 # Efficient serialization
+dill>=0.3.0                   # Extended pickle capabilities
+
+# ===== TRANSFORMERS & NLP (for completeness) =====
+transformers>=4.49.0          # Transformer models
+tokenizers>=0.13.0            # Fast tokenization
+
+# ===== GPU & ACCELERATION =====
+accelerate>=0.20.0            # Distributed training
+flash-attn>=2.4.3             # Efficient attention implementation
+
+# ===== MISC SCIENTIFIC =====
+pillow>=10.0.0                # Image processing
+imageio>=2.31.0               # Image I/O
+requests>=2.31.0              # HTTP library
+urllib3>=2.0.0                # HTTP client
+
+# ===== GRAPH SPECIALIZED LIBRARIES =====
+karateclub>=1.3.0             # Graph mining and node embedding
+stellargraph>=1.2.1           # Machine learning on graphs
+snap-stanford>=5.0.0          # Stanford Network Analysis Platform
+
+# ===== ADDITIONAL ML TOOLS =====
+xgboost>=1.7.0                # Gradient boosting
+lightgbm>=4.0.0               # Light gradient boosting
+catboost>=1.2.0               # Categorical boosting
+
+# ===== EXPERIMENTAL & RESEARCH =====
+liger-kernel                   # Triton kernels for efficiency
+mathruler                      # Mathematical evaluation
+qwen-vl-utils                  # Vision-language utilities
+vllm>=0.7.3                   # Large language model serving
+peft                           # Parameter-efficient fine-tuning
+
+# Note: Some packages might have system dependencies
+# For GPU support, ensure CUDA 11.8+ is installed
+# For graph-tool, additional system packages may be required

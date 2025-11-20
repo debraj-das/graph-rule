@@ -3,7 +3,7 @@
 ## Project Information
 - **Student:** Debraj Das (21ME3AI31)
 - **Project:** Graph-RULE (G-RULE) Framework  
-- **Validation Date:** November 21, 2025 02:43:35
+- **Validation Date:** November 21, 2025 03:03:00
 - **Status:** ACCEPTABLE - SOME WORK REQUIRED
 - **Completion:** 82%
 
