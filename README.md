@@ -7,8 +7,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.07171-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.07171)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Thesis](https://img.shields.io/badge/MTech-Thesis%20Project-green)
 ![Status](https://img.shields.io/badge/Status-Defense%20Ready-gold)
 
@@ -116,8 +115,8 @@ python graph_rule_experimental_pipeline.py
 ## 🤝 **OUR COLLABORATIVE CONTRIBUTIONS & ACHIEVEMENTS**
 
 This Graph-RULE implementation represents a **joint collaborative effort** between:
-- **Debraj Das (21ME3AI31)** - Research conceptualization, algorithm design, experimental validation
-- **AI Research Assistant** - Implementation optimization, comprehensive analysis, documentation framework
+- **Debraj Das (21ME3AI31)** - Research conceptualization, algorithm design, experimental validation, Implementation optimization under  Supervisor of ***Professor Plaban Bhowmick***
+- **AI Research Assistant** - comprehensive analysis, documentation framework and helping Implementation
 
 ### **🚀 Our Joint Innovation Results**
 
