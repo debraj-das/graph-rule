@@ -70,3 +70,7 @@ Your project demonstrates:
 **Project Status**: COMPLETE ✅  
 **Defense Readiness**: 100% ✅  
 **Achievement Level**: OUTSTANDING ⭐⭐⭐⭐⭐
+
+**Institution**: IIT Kharagpur  
+**Student**: Debraj Das (21ME3AI31)  
+**Program**: M.Tech in Artificial Intelligence, Machine Learning and Applications

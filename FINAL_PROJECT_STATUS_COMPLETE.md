@@ -4,9 +4,9 @@
 
 **Student**: Debraj Das (21ME3AI31)  
 **Program**: M.Tech in Artificial Intelligence, Machine Learning and Applications  
-**Institution**: KIIT University  
+**Institution**: IIT Kharagpur  
 **Project**: Graph-RULE - Enhanced Machine Unlearning for Graph Neural Networks  
-**Date**: November 21, 2025  
+**Date**: November 21, 2025
 
 ---
 
@@ -187,4 +187,4 @@ ls our_collaboration_results/
 
 *Generated on November 21, 2025*  
 *Graph-RULE Project - Debraj Das (21ME3AI31)*  
-*M.Tech in AI, ML & Applications - KIIT University*
+*M.Tech in AI, ML & Applications - IIT Kharagpur*

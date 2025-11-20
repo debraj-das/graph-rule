@@ -8,9 +8,9 @@
 **Degree:** Master of Technology (M.Tech)  
 **Department:** Artificial Intelligence  
 **Supervisor:** Dr. Plaban Bhowmick  
-**Institution:** [University Name]  
+**Institution:** IIT Kharagpur  
 **Academic Year:** 2024-2025  
-**Submission Date:** November 21, 2025  
+**Submission Date:** November 21, 2025
 
 ---
 

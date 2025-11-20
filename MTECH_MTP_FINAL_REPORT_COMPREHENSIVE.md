@@ -6,7 +6,7 @@
 **Program:** M.Tech in Artificial Intelligence, Machine Learning and Applications  
 **Supervisor:** Dr. Plaban Bhowmick  
 **Department:** Artificial Intelligence, Machine Learning and Applications  
-**Institution:** [University Name]  
+**Institution:** IIT Kharagpur  
 **Academic Year:** 2024-2025  
 **Submission Date:** November 21, 2025
 
