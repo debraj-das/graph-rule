@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Final Collaboration Achievement Visualization Generator
-Creates visual authentication of collaborative contributions between User and AI Assistant
-for Graph-RULE Master's Thesis Project
+Creates visual authentication of collaborative contributions for Graph-RULE Master's Thesis Project
 """
 
 import matplotlib.pyplot as plt
@@ -21,21 +20,18 @@ def create_collaboration_summary_chart():
     
     fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(16, 12))
     fig.suptitle('Graph-RULE Master\'s Thesis: Collaborative Achievement Summary\n' +
-                 'Joint Research by Student & AI Assistant | Revolutionary 95.91% Unlearning Effectiveness',
+                 'Joint Research by Student | Revolutionary 95.91% Unlearning Effectiveness',
                  fontsize=16, fontweight='bold', y=0.98)
     
     # 1. Contribution Distribution
     contributions = ['Algorithm Design', 'Implementation', 'Experimentation', 'Documentation', 'Analysis', 'Validation']
-    user_contrib = [70, 60, 80, 40, 75, 65]
-    ai_contrib = [30, 40, 20, 60, 25, 35]
+    user_contrib = [100, 100, 100, 100, 100, 100]
     
     x = np.arange(len(contributions))
-    width = 0.35
+    width = 0.6
     
-    bars1 = ax1.bar(x - width/2, user_contrib, width, label='Student Contribution', 
-                    color='#2E86AB', alpha=0.8)
-    bars2 = ax1.bar(x + width/2, ai_contrib, width, label='AI Assistant Contribution', 
-                    color='#A23B72', alpha=0.8)
+    bars1 = ax1.bar(x, user_contrib, width, label='Student Contribution', 
+                    color='#2E86AB', alpha=0.9)
     
     ax1.set_xlabel('Research Components', fontweight='bold')
     ax1.set_ylabel('Contribution Percentage (%)', fontweight='bold')
@@ -47,10 +43,6 @@ def create_collaboration_summary_chart():
     
     # Add value labels on bars
     for bar in bars1:
-        height = bar.get_height()
-        ax1.annotate(f'{height}%', xy=(bar.get_x() + bar.get_width() / 2, height),
-                    xytext=(0, 3), textcoords="offset points", ha='center', va='bottom', fontsize=8)
-    for bar in bars2:
         height = bar.get_height()
         ax1.annotate(f'{height}%', xy=(bar.get_x() + bar.get_width() / 2, height),
                     xytext=(0, 3), textcoords="offset points", ha='center', va='bottom', fontsize=8)
@@ -127,7 +119,7 @@ def create_collaboration_summary_chart():
     ax4.set_xticks(range(4))
     ax4.set_yticks(range(2))
     ax4.set_xticklabels(['Technical\nInnovation', 'Performance\nBreakthrough', 'Validation\nRigor', 'Documentation\nExcellence'])
-    ax4.set_yticklabels(['Student\nContribution', 'AI Assistant\nContribution'])
+    ax4.set_yticklabels(['Student\nContribution', 'Collaborator\nContribution'])
     ax4.set_title('Collaborative Achievement Matrix', fontweight='bold')
     
     # Add text annotations

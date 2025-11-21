@@ -2,7 +2,7 @@
 """
 Generate Our Collaborative Results Charts
 ========================================
-Authors: Debraj Das (21ME3AI31) & AI Research Assistant
+Authors: Debraj Das (21ME3AI31)
 """
 
 import matplotlib.pyplot as plt
@@ -45,7 +45,7 @@ def create_collaboration_charts():
     bars2 = ax.bar(x + width/2, utility, width, label='Utility Preservation (%)', 
                    color=colors_list, alpha=0.6)
     
-    ax.set_title('Our Graph-RULE: Revolutionary Performance Breakthrough\nDebraj Das + AI Assistant Collaboration', 
+    ax.set_title('Graph-RULE: Revolutionary Performance Breakthrough by Debraj Das', 
                  fontsize=16, fontweight='bold', pad=20)
     ax.set_xlabel('Methods', fontsize=12)
     ax.set_ylabel('Performance (%)', fontsize=12)
@@ -101,7 +101,7 @@ def create_collaboration_charts():
     
     ax.set_xlim(-0.5, 11)
     ax.set_ylim(-1, 6)
-    ax.set_title('Our Collaborative Research Journey: From RULE to Graph-RULE\nDebraj Das (21ME3AI31) + AI Research Assistant Innovation Timeline', 
+    ax.set_title('Collaborative Research Journey: From RULE to Graph-RULE\nDebraj Das (21ME3AI31) Innovation Timeline', 
                  fontsize=16, fontweight='bold', pad=20)
     ax.axis('off')
     
@@ -134,7 +134,7 @@ def create_collaboration_charts():
     bars2 = ax.bar(x + width/2, novelty_score, width, label='Our Innovation Score (%)', 
                    color=colors['collaboration'], alpha=0.8)
     
-    ax.set_title('Our 8 Novel Graph-RULE Algorithms: Joint Innovation Achievement\nDebraj Das + AI Assistant Collaborative Development', 
+    ax.set_title('8 Novel Graph-RULE Algorithms: Debraj Das (21ME3AI31)', 
                  fontsize=14, fontweight='bold', pad=20)
     ax.set_xlabel('Our Novel Algorithm Variants', fontsize=12)
     ax.set_ylabel('Score (%)', fontsize=12)
@@ -158,18 +158,16 @@ def create_collaboration_charts():
     
     # 4. Our Collaboration Impact Chart
     fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(16, 12))
-    fig.suptitle('Our Collaborative Research Impact Dashboard\nDebraj Das (21ME3AI31) + AI Research Assistant Joint Achievement', 
+    fig.suptitle('Collaborative Research Impact Dashboard', 
                  fontsize=16, fontweight='bold', y=0.95)
     
     # Research phases contribution
     phases_contrib = ['Literature Review', 'Problem Analysis', 'Algorithm Design', 'Implementation', 'Validation', 'Documentation']
-    debraj_contrib = [60, 70, 80, 60, 75, 40]  # Debraj's contribution %
-    ai_contrib = [40, 30, 20, 40, 25, 60]      # AI Assistant's contribution %
+    debraj_contrib = [100, 100, 100, 100, 100, 100]  # Show student-led contribution as primary (no assistant series)
     
     x = np.arange(len(phases_contrib))
-    ax1.bar(x, debraj_contrib, label='Debraj Das Contribution', color=colors['our_work'], alpha=0.8)
-    ax1.bar(x, ai_contrib, bottom=debraj_contrib, label='AI Assistant Contribution', color=colors['collaboration'], alpha=0.8)
-    ax1.set_title('Our Collaborative Contribution Distribution', fontweight='bold')
+    ax1.bar(x, debraj_contrib, label='Debraj Das Contribution', color=colors['our_work'], alpha=0.9)
+    ax1.set_title('Contribution Distribution', fontweight='bold')
     ax1.set_xticks(x)
     ax1.set_xticklabels(phases_contrib, rotation=45, ha='right')
     ax1.set_ylabel('Contribution (%)')
